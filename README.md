@@ -33,6 +33,7 @@ $ npm install
 ```
 
 ## Running the app
+Provide the mongodb uri and RabbitMQ urls in the .env file.
 
 ```bash
 # development
